@@ -1,0 +1,2 @@
+# Intersection-Congestion-Prediction
+We’ve all been there: stuck at a traffic light, only to be given mere seconds to pass through an intersection, behind a parade of other commuters. If the city planners and governments could anticipate traffic hot spots ahead of time they could reduce the stop-and-go stress of millions of commuters. Harnessing the insights from this data has the power to improve safety, optimize operations, and identify opportunities for infrastructure challenges.
